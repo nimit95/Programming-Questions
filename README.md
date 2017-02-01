@@ -16,3 +16,7 @@ Programming Question in C++
    step, 2 steps or 3 steps at a time. Possible ways can run up to the stairs.
 * Given a String print all the subsets. e.g. for input = abc you need to
   print a, b, c, ab, ac, bc, abc using recursion.
+* Given an array and a number N, find all subsets which sum up to N. (pairs,
+  triplets, etc.)
+* Using the phone keypad return all possible words that can be produced
+  given input digits. e.g. 23 > “ad, ae, af, bd, be, bf, cd, ce, cf
