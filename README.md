@@ -24,4 +24,6 @@ Programming Question in C++
 ### Linked List
 * Linked List Implementations including insertion deletion
 * Reverse a given LinkedList
+* Append the last n elements of a linked list to the front. e.g. for 1 -> 2 -> 3
+    -> 4 -> 5 -> 6 -> null and n = 2 return 5 -> 6 -> 1 -> 2 -> 3 -> 4 -> null.
 
